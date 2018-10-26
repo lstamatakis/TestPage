@@ -1,0 +1,37 @@
+h1 {
+	text-align: center;
+	border: 1px solid white;
+	background-color: #180000;
+	color: white;
+	font-family: Exo 2;
+}
+h2 {
+	text-align: center;
+	color: Black;
+	font-family: Exo 2;
+}
+h3 {
+	text-align: center;
+	color: Black;
+	font-family: Exo 2;
+}
+#Number1 {
+	font-family: Exo 2;
+	border: 3px solid gold;
+}
+#Number2 {
+	font-family: Exo 2;
+	border: 3px solid silver;
+}
+#Number3 {
+	font-family: Exo 2;
+	border: 3px solid #CD7F32;
+}
+#HomePage{
+	font-family: Exo 2;
+	font-size: 200%;
+}
+.Rest {
+	font-family: Exo 2;
+	border: 3px solid Black;
+}
